@@ -1,0 +1,6 @@
+#include iostream.h
+using named space
+int main{
+ cout<<"Hello World";
+ return 0;
+ }
